@@ -1,0 +1,11 @@
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQL/bin/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQL.deps.json
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQL/bin/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQL.runtimeconfig.json
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQL/bin/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQL.runtimeconfig.dev.json
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQL/bin/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQL.dll
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQL/bin/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQL.pdb
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQL/obj/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQL.csproj.CoreCompileInputs.cache
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQL/obj/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQL.AssemblyInfoInputs.cache
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQL/obj/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQL.AssemblyInfo.cs
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQL/obj/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQL.dll
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQL/obj/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQL.pdb
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQL/obj/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQL.csprojAssemblyReference.cache

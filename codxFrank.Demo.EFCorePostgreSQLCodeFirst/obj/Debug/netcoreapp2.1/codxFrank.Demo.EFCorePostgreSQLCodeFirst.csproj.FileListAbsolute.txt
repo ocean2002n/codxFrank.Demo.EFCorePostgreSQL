@@ -1,0 +1,11 @@
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQLCodeFirst/bin/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQLCodeFirst.deps.json
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQLCodeFirst/bin/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQLCodeFirst.runtimeconfig.json
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQLCodeFirst/bin/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQLCodeFirst.runtimeconfig.dev.json
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQLCodeFirst/bin/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQLCodeFirst.dll
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQLCodeFirst/bin/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQLCodeFirst.pdb
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQLCodeFirst/obj/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQLCodeFirst.csproj.CoreCompileInputs.cache
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQLCodeFirst/obj/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQLCodeFirst.AssemblyInfoInputs.cache
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQLCodeFirst/obj/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQLCodeFirst.AssemblyInfo.cs
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQLCodeFirst/obj/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQLCodeFirst.dll
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQLCodeFirst/obj/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQLCodeFirst.pdb
+/Users/codxfrankenstein/GitHub/codxFrank.Demo.EFCorePostgreSQL/codxFrank.Demo.EFCorePostgreSQLCodeFirst/obj/Debug/netcoreapp2.1/codxFrank.Demo.EFCorePostgreSQLCodeFirst.csprojAssemblyReference.cache
